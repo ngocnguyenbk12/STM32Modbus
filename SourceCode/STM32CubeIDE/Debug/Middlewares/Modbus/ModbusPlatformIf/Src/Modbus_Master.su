@@ -1,0 +1,10 @@
+Modbus_Master.c:142:6:Master_ModbusInit	16	static
+Modbus_Master.c:314:6:Master_vTimerCallbackT35	24	static
+Modbus_Master.c:331:6:Master_vTimerCallbackTimeout	16	static
+Modbus_Master.c:244:6:Master_ModbusStart	8	static
+Modbus_Master.c:474:9:validateAnswer	16	static
+Modbus_Master.c:716:13:sendTxBuffer	24	static
+Modbus_Master.c:358:8:SendQuery	16	static
+Modbus_Master.c:529:9:getRxBuffer	16	static
+Modbus_Master.c:834:6:StartTaskModbusMaster	40	static
+Modbus_Master.c:103:6:MMaster_Init	8	static

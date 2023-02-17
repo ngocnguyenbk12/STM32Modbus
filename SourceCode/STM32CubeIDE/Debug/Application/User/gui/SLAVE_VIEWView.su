@@ -1,0 +1,13 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+SLAVE_VIEWView.hpp:11:13:SLAVE_VIEWView::~SLAVE_VIEWView()	0	static
+SLAVE_VIEWView.cpp:22:6:virtual void SLAVE_VIEWView::tearDownScreen()	0	static
+SLAVE_VIEWView.cpp:17:6:virtual void SLAVE_VIEWView::setupScreen()	8	static
+SLAVE_VIEWView.cpp:27:6:virtual void SLAVE_VIEWView::Slave_Button0()	8	static
+SLAVE_VIEWView.cpp:40:6:virtual void SLAVE_VIEWView::Slave_Button1()	8	static
+SLAVE_VIEWView.cpp:52:6:virtual void SLAVE_VIEWView::Slave_Button2()	8	static
+SLAVE_VIEWView.cpp:64:6:virtual void SLAVE_VIEWView::Slave_Button3()	8	static
+SLAVE_VIEWView.cpp:76:6:virtual void SLAVE_VIEWView::Slave_Button4()	8	static
+SLAVE_VIEWView.hpp:11:13:virtual SLAVE_VIEWView::~SLAVE_VIEWView()	8	static
+SLAVE_VIEWView.cpp:12:1:SLAVE_VIEWView::SLAVE_VIEWView()	8	static

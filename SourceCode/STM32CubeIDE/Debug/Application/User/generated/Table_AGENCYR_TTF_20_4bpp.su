@@ -1,0 +1,2 @@
+Table_AGENCYR_TTF_20_4bpp.cpp:106:177:void __tcf_0()	0	static
+Table_AGENCYR_TTF_20_4bpp.cpp:104:26:touchgfx::GeneratedFont& getFont_AGENCYR_TTF_20_4bpp()	56	static

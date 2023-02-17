@@ -1,0 +1,7 @@
+TCP_Slave_Function.c:33:10:word	0	static
+TCP_Slave_Function.c:42:8:Slave_Fc1	32	static
+TCP_Slave_Function.c:88:8:Slave_Fc3	24	static
+TCP_Slave_Function.c:124:8:Slave_Fc5	8	static
+TCP_Slave_Function.c:160:8:Slave_Fc6	16	static
+TCP_Slave_Function.c:183:8:Slave_Fc16	24	static
+TCP_Slave_Function.c:213:8:Slave_Fc15	32	static

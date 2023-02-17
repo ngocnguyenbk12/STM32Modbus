@@ -1,0 +1,2 @@
+ModbusIf_Uart.c:15:16:ModbusIF_Init	8	static
+ModbusIf_Uart.c:26:6:ModbusIf_Transmit	8	static

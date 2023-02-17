@@ -1,0 +1,21 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+AC_VIEWViewBase.hpp:20:13:AC_VIEWViewBase::~AC_VIEWViewBase()	0	static
+AC_VIEWViewBase.hpp:26:18:virtual void AC_VIEWViewBase::AC_TempDown()	0	static
+AC_VIEWViewBase.hpp:31:18:virtual void AC_VIEWViewBase::AC_TempUp()	0	static
+AC_VIEWViewBase.hpp:36:18:virtual void AC_VIEWViewBase::AC_TempHigh()	0	static
+AC_VIEWViewBase.hpp:41:18:virtual void AC_VIEWViewBase::AC_TempLow()	0	static
+AC_VIEWViewBase.hpp:46:18:virtual void AC_VIEWViewBase::AC_TempMed()	0	static
+AC_VIEWViewBase.hpp:51:18:virtual void AC_VIEWViewBase::AC_setonoff()	0	static
+AC_VIEWViewBase.cpp:85:6:virtual void AC_VIEWViewBase::setupScreen()	0	static
+Callback.hpp:357:8:touchgfx::Callback<AC_VIEWViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = AC_VIEWViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = AC_VIEWViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+Callback.hpp:357:8:virtual touchgfx::Callback<AC_VIEWViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+AC_VIEWViewBase.hpp:20:13:virtual AC_VIEWViewBase::~AC_VIEWViewBase()	8	static
+AC_VIEWViewBase.cpp:90:6:void AC_VIEWViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	8	static
+AC_VIEWViewBase.cpp:9:1:AC_VIEWViewBase::AC_VIEWViewBase()	160	static

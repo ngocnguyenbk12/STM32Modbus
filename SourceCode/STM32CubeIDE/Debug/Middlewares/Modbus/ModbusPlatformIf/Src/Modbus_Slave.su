@@ -1,0 +1,11 @@
+Modbus_Slave.c:1172:10:word	0	static
+Modbus_Slave.c:1190:6:buildException	0	static
+Modbus_Slave.c:403:6:vTimerCallbackT35	24	static
+Modbus_Slave.c:420:6:vTimerCallbackTimeout	16	static
+Modbus_Slave.c:1026:9:getRxBuffer	16	static
+Modbus_Slave.c:1067:9:validateRequest	16	static
+Modbus_Slave.c:1212:13:sendTxBuffer	24	static
+Modbus_Slave.c:584:6:StartTaskModbusSlave	8	static
+Modbus_Slave.c:213:6:ModbusInit	16	static
+Modbus_Slave.c:331:6:ModbusStart	8	static
+Modbus_Slave.c:138:6:SModbus_Init	16	static

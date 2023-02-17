@@ -1,0 +1,21 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	0	static
+TIME_SETTINGViewBase.hpp:21:13:TIME_SETTINGViewBase::~TIME_SETTINGViewBase()	0	static
+TIME_SETTINGViewBase.hpp:27:18:virtual void TIME_SETTINGViewBase::Time_Up1()	0	static
+TIME_SETTINGViewBase.hpp:32:18:virtual void TIME_SETTINGViewBase::Time_Down1()	0	static
+TIME_SETTINGViewBase.hpp:37:18:virtual void TIME_SETTINGViewBase::Time_Up2()	0	static
+TIME_SETTINGViewBase.hpp:42:18:virtual void TIME_SETTINGViewBase::Time_Down2()	0	static
+TIME_SETTINGViewBase.hpp:47:18:virtual void TIME_SETTINGViewBase::Time_Up3()	0	static
+TIME_SETTINGViewBase.hpp:52:18:virtual void TIME_SETTINGViewBase::Time_Down3()	0	static
+TIME_SETTINGViewBase.cpp:114:6:virtual void TIME_SETTINGViewBase::setupScreen()	0	static
+Callback.hpp:357:8:touchgfx::Callback<TIME_SETTINGViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = TIME_SETTINGViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = TIME_SETTINGViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	8	static
+Callback.hpp:357:8:virtual touchgfx::Callback<TIME_SETTINGViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+TIME_SETTINGViewBase.hpp:21:13:virtual TIME_SETTINGViewBase::~TIME_SETTINGViewBase()	8	static
+TIME_SETTINGViewBase.cpp:119:6:void TIME_SETTINGViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	8	static
+TIME_SETTINGViewBase.cpp:9:1:TIME_SETTINGViewBase::TIME_SETTINGViewBase()	240	static

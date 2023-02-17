@@ -1,0 +1,16 @@
+main.c:842:6:MPU_Config	32	static
+main.c:749:13:MX_GPIO_Init	96	static
+main.c:313:13:MX_CRC_Init	8	static
+main.c:344:13:MX_DMA2D_Init	8	static
+main.c:645:13:MX_FMC_Init	72	static
+main.c:381:13:MX_I2C3_Init	16	static
+main.c:427:13:MX_LTDC_Init	72	static
+main.c:489:13:MX_QUADSPI_Init	8	static
+main.c:579:13:MX_USART1_UART_Init	8	static
+main.c:614:13:MX_USART6_UART_Init	8	static
+main.c:527:13:MX_RTC_Init	16	static
+main.c:822:6:StartDefaultTask	8	static
+main.c:259:6:SystemClock_Config	96	static
+main.c:150:5:main	8	static,ignoring_inline_asm
+main.c:883:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:900:6:Error_Handler	0	static

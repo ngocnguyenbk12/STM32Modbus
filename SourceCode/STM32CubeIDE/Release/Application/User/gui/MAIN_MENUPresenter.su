@@ -1,0 +1,6 @@
+ModelListener.hpp:18:18:virtual void ModelListener::AC_Setnewvalue(short unsigned int)	0	static
+MAIN_MENUPresenter.hpp:28:13:MAIN_MENUPresenter::~MAIN_MENUPresenter()	0	static
+MAIN_MENUPresenter.cpp:10:6:virtual void MAIN_MENUPresenter::activate()	0	static
+MAIN_MENUPresenter.hpp:28:13:virtual MAIN_MENUPresenter::~MAIN_MENUPresenter()	8	static
+MAIN_MENUPresenter.hpp:28:13:virtual void* MAIN_MENUPresenter::_ZThn4_N18MAIN_MENUPresenterD1Ev()	0	static
+MAIN_MENUPresenter.cpp:4:1:MAIN_MENUPresenter::MAIN_MENUPresenter(MAIN_MENUView&)	8	static

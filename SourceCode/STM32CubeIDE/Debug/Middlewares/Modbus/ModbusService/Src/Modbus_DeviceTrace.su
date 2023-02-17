@@ -1,0 +1,6 @@
+Modbus_DeviceTrace.c:17:6:Read_Coil	4	static
+Modbus_DeviceTrace.c:28:10:Read_Reg	4	static
+Modbus_DeviceTrace.c:39:6:Write_Coil	32	static
+Modbus_DeviceTrace.c:53:6:Write_Reg	32	static
+Modbus_DeviceTrace.c:69:6:Master_WriteCoil	32	static
+Modbus_DeviceTrace.c:84:6:Master_WriteReg	32	static

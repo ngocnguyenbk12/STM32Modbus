@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "modbusif.h": "c",
+        "modbus.h": "c",
+        "modbusconfig.h": "c",
+        "ringbuffer.h": "c",
+        "stdbool.h": "c",
+        "crc.h": "c",
+        "inttypes.h": "c",
+        "modbus2gpio.h": "c"
+    }
+}

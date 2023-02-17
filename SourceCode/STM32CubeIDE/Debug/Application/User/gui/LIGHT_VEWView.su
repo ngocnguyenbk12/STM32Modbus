@@ -1,0 +1,12 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+LIGHT_VEWViewBase.hpp:26:18:virtual void LIGHT_VEWViewBase::Light_Button3()	0	static
+LIGHT_VEWViewBase.hpp:31:18:virtual void LIGHT_VEWViewBase::Light_Button2()	0	static
+LIGHT_VEWViewBase.hpp:36:18:virtual void LIGHT_VEWViewBase::Light_Button1()	0	static
+LIGHT_VEWViewBase.hpp:41:18:virtual void LIGHT_VEWViewBase::Light_Button0()	0	static
+LIGHT_VEWView.hpp:11:13:LIGHT_VEWView::~LIGHT_VEWView()	0	static
+LIGHT_VEWView.cpp:13:6:virtual void LIGHT_VEWView::tearDownScreen()	0	static
+LIGHT_VEWView.cpp:8:6:virtual void LIGHT_VEWView::setupScreen()	0	static
+LIGHT_VEWView.hpp:11:13:virtual LIGHT_VEWView::~LIGHT_VEWView()	8	static
+LIGHT_VEWView.cpp:3:1:LIGHT_VEWView::LIGHT_VEWView()	8	static

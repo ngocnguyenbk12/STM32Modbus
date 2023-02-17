@@ -1,0 +1,2 @@
+ModbusIf_Serial.c:22:16:ModbusIf_Serial	8	static
+ModbusIf_Serial.c:40:6:ModbusIf_Transmit	8	static

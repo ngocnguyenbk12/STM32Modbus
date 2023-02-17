@@ -1,0 +1,3 @@
+Gui2Mb.c:15:6:Device_Update	4	static
+Gui2Mb.c:27:6:Device_Slave_Update	16	static
+Gui2Mb.c:42:6:Device_Slave_UpdateReg	16	static

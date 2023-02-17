@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.18.1">
+  <Texts>
+    <Text Id="__SingleUse_RDTD" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Setting</Translation>
+    </Text>
+    <Text Id="__SingleUse_LSOD" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Light</Translation>
+    </Text>
+    <Text Id="__SingleUse_UW39" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Service</Translation>
+    </Text>
+    <Text Id="__SingleUse_XA5L" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">Air Conditioner</Translation>
+    </Text>
+    <Text Id="__SingleUse_PANZ" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">HIGH</Translation>
+    </Text>
+    <Text Id="__SingleUse_79C5" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">MED</Translation>
+    </Text>
+    <Text Id="__SingleUse_0IZ2" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">LOW</Translation>
+    </Text>
+    <Text Id="__SingleUse_J95C" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">UP</Translation>
+    </Text>
+    <Text Id="__SingleUse_ERNJ" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">DOWN</Translation>
+    </Text>
+    <Text Id="__SingleUse_OAE4" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">BACK</Translation>
+    </Text>
+    <Text Id="__SingleUse_BYNC" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">BACK</Translation>
+    </Text>
+    <Text Id="__SingleUse_HKY5" TypographyId="Temperature_Value" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Temp: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_TPZ4" TypographyId="Temperature_Value" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_3WOS" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">BACK</Translation>
+    </Text>
+    <Text Id="__SingleUse_IUFI" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 0</Translation>
+    </Text>
+    <Text Id="__SingleUse_6194" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 3</Translation>
+    </Text>
+    <Text Id="__SingleUse_MXT3" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 2</Translation>
+    </Text>
+    <Text Id="__SingleUse_WSPH" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 1</Translation>
+    </Text>
+    <Text Id="__SingleUse_BE17" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 4&#10;</Translation>
+    </Text>
+    <Text Id="__SingleUse_B11L" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">BACK</Translation>
+    </Text>
+    <Text Id="__SingleUse_O3EI" TypographyId="Default" Alignment="Center" Direction="LTR">
+      <Translation Language="GB">BACK</Translation>
+    </Text>
+    <Text Id="__SingleUse_C300" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 0</Translation>
+    </Text>
+    <Text Id="__SingleUse_042S" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 3</Translation>
+    </Text>
+    <Text Id="__SingleUse_JS0J" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 2</Translation>
+    </Text>
+    <Text Id="__SingleUse_BOU2" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 1</Translation>
+    </Text>
+    <Text Id="__SingleUse_XRMD" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Light 4&#10;</Translation>
+    </Text>
+    <Text Id="__SingleUse_OCJ0" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Device 0</Translation>
+    </Text>
+    <Text Id="__SingleUse_LTOK" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_BZGK" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Device 1</Translation>
+    </Text>
+    <Text Id="__SingleUse_K2KC" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_2PT0" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Device 2</Translation>
+    </Text>
+    <Text Id="__SingleUse_NZRP" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_ZW0H" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Device 3</Translation>
+    </Text>
+    <Text Id="__SingleUse_S70L" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_VSCU" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Device 4</Translation>
+    </Text>
+    <Text Id="__SingleUse_Q8D0" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_QV3S" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_UWCB" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_Q1K6" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_S0N8" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_8BWY" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">0</Translation>
+    </Text>
+    <Text Id="__SingleUse_9LUW" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Temperature: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_X61D" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Humidity:&lt;value&gt; %</Translation>
+    </Text>
+    <Text Id="__SingleUse_DMQ6" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">light intensity: &lt;value&gt;</Translation>
+    </Text>
+    <Text Id="__SingleUse_6ADD" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">22</Translation>
+    </Text>
+    <Text Id="__SingleUse_TTE3" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">250</Translation>
+    </Text>
+    <Text Id="__SingleUse_E1YA" TypographyId="Typography_00" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">50</Translation>
+    </Text>
+    <Text Id="__SingleUse_DX8V" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Hrs</Translation>
+    </Text>
+    <Text Id="__SingleUse_7Y8V" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Hrs</Translation>
+    </Text>
+    <Text Id="__SingleUse_U1O3" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Min</Translation>
+    </Text>
+    <Text Id="__SingleUse_HSDP" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Min</Translation>
+    </Text>
+    <Text Id="__SingleUse_842C" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Min</Translation>
+    </Text>
+    <Text Id="__SingleUse_13O0" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Sec</Translation>
+    </Text>
+    <Text Id="__SingleUse_5UL4" TypographyId="Default" Alignment="Left" Direction="LTR">
+      <Translation Language="GB">Sec</Translation>
+    </Text>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" FallbackCharacter="?" />
+    <Typography Id="Temperature_Value" Font="ariblk.ttf" Size="40" Bpp="4" FallbackCharacter="?" WildcardCharacterRanges="000-100" />
+    <Typography Id="Typography_00" Font="AGENCYR.TTF" Size="20" Bpp="4" FallbackCharacter="?" WildcardCharacterRanges="000-100" />
+  </Typographies>
+</TextDatabase>

@@ -1,0 +1,7 @@
+ModelListener.hpp:18:18:virtual void ModelListener::AC_Setnewvalue(short unsigned int)	0	static
+ModelListener.hpp:19:18:virtual void ModelListener::RTC_UpdateTime(uint8_t, uint8_t, uint8_t)	0	static
+LIGHT_VEWPresenter.hpp:28:13:LIGHT_VEWPresenter::~LIGHT_VEWPresenter()	0	static
+LIGHT_VEWPresenter.cpp:10:6:virtual void LIGHT_VEWPresenter::activate()	0	static
+LIGHT_VEWPresenter.hpp:28:13:virtual LIGHT_VEWPresenter::~LIGHT_VEWPresenter()	8	static
+LIGHT_VEWPresenter.hpp:28:13:virtual void* LIGHT_VEWPresenter::_ZThn4_N18LIGHT_VEWPresenterD1Ev()	0	static
+LIGHT_VEWPresenter.cpp:4:1:LIGHT_VEWPresenter::LIGHT_VEWPresenter(LIGHT_VEWView&)	8	static

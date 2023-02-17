@@ -1,0 +1,2 @@
+Modbus_Func.c:17:6:ModbusQuery	16	static
+Modbus_Func.c:32:6:ModbusQueryInject	16	static

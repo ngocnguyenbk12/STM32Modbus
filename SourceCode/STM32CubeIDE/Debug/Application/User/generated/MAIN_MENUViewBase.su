@@ -1,0 +1,13 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:115:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+MAIN_MENUViewBase.hpp:19:13:MAIN_MENUViewBase::~MAIN_MENUViewBase()	0	static
+MAIN_MENUViewBase.cpp:66:6:virtual void MAIN_MENUViewBase::setupScreen()	0	static
+Callback.hpp:357:8:touchgfx::Callback<MAIN_MENUViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+Callback.hpp:386:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = MAIN_MENUViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+Callback.hpp:396:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = MAIN_MENUViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+Callback.hpp:357:8:virtual touchgfx::Callback<MAIN_MENUViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+MAIN_MENUViewBase.hpp:19:13:virtual MAIN_MENUViewBase::~MAIN_MENUViewBase()	8	static
+MAIN_MENUViewBase.cpp:71:6:void MAIN_MENUViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	8	static
+MAIN_MENUViewBase.cpp:9:1:MAIN_MENUViewBase::MAIN_MENUViewBase()	120	static

@@ -1,0 +1,7 @@
+ModelListener.hpp:18:18:virtual void ModelListener::AC_Setnewvalue(short unsigned int)	0	static
+ModelListener.hpp:19:18:virtual void ModelListener::RTC_UpdateTime(uint8_t, uint8_t, uint8_t)	0	static
+SETTING_VIEWPresenter.hpp:28:13:SETTING_VIEWPresenter::~SETTING_VIEWPresenter()	0	static
+SETTING_VIEWPresenter.cpp:10:6:virtual void SETTING_VIEWPresenter::activate()	0	static
+SETTING_VIEWPresenter.hpp:28:13:virtual SETTING_VIEWPresenter::~SETTING_VIEWPresenter()	8	static
+SETTING_VIEWPresenter.hpp:28:13:virtual void* SETTING_VIEWPresenter::_ZThn4_N21SETTING_VIEWPresenterD1Ev()	0	static
+SETTING_VIEWPresenter.cpp:4:1:SETTING_VIEWPresenter::SETTING_VIEWPresenter(SETTING_VIEWView&)	8	static

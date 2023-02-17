@@ -1,0 +1,3 @@
+RTU_Master_Function.c:33:10:mword	0	static
+RTU_Master_Function.c:41:6:Master_Fc1	16	static
+RTU_Master_Function.c:51:6:Master_Fc3	16	static

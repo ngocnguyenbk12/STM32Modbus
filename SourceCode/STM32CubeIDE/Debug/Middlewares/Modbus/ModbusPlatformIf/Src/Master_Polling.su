@@ -1,0 +1,6 @@
+Master_Polling.c:17:6:Master_Polling	8	static
+Master_Polling.c:43:6:Master_Polling_1ms	8	static
+Master_Polling.c:60:6:Master_Polling_2ms	8	static
+Master_Polling.c:74:6:Master_Polling_5ms	8	static
+Master_Polling.c:90:6:Master_WriteCoilInject	8	static
+Master_Polling.c:104:6:Master_WriteRegInject	8	static

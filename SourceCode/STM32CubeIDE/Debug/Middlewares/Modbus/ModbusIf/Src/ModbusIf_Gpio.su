@@ -1,0 +1,2 @@
+ModbusIf_Gpio.c:22:6:ModbusIF_WriteGPIO	8	static
+ModbusIf_Gpio.c:33:15:ModbusIf_ReadGPIo	8	static
