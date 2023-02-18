@@ -667,7 +667,6 @@ void StartTaskModbusSlave(void *argument)
 
 	 modH->i8lastError = 0;
 	xSemaphoreTake(modH->ModBusSphrHandle , portMAX_DELAY); //before processing the message get the semaphore
-
 	 // process message
 	 switch(modH->u8Buffer[ FUNC ] )
 	 {
