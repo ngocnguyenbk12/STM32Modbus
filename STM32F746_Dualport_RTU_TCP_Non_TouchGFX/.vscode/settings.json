@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "queue.h": "c",
+        "main.h": "c",
+        "stm32f7xx_hal.h": "c",
+        "stm32f7xx_hal_conf.h": "c",
+        "semphr.h": "c",
+        "modbus.h": "c",
+        "stdbool.h": "c",
+        "ip4_addr.h": "c",
+        "api.h": "c",
+        "netif.h": "c",
+        "modbusdevice.h": "c",
+        "tcp_slave_function.h": "c",
+        "modbus_devicetrace.h": "c",
+        "timers.h": "c",
+        "cmsis_os.h": "c",
+        "modbusconfig.h": "c"
+    }
+}

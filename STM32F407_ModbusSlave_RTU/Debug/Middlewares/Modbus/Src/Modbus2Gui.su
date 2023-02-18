@@ -1,0 +1,2 @@
+Modbus2Gui.c:3:6:Queue_CoilUpdate	24	static
+Modbus2Gui.c:50:6:Queue_RegUpdate	24	static

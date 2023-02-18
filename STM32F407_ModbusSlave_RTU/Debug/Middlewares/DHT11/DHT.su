@@ -1,0 +1,5 @@
+dht.c:16:6:microDelay	16	static
+dht.c:22:6:msdelay	16	static
+dht.c:29:9:DHT11_Start	32	static
+dht.c:60:9:DHT11_Read	16	static
+dht.c:86:6:DHT11_ReadAll	24	static
